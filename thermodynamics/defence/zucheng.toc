@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{学术活动}{2}{0}{1}
+\beamer@sectionintoc {2}{科研文章}{9}{0}{2}
+\beamer@sectionintoc {3}{开源项目}{17}{0}{3}
+\beamer@sectionintoc {4}{团学会活动}{20}{0}{4}
+\beamer@sectionintoc {5}{获奖情况}{24}{0}{5}
+\beamer@sectionintoc {6}{典型成果}{26}{0}{6}
